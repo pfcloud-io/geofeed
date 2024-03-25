@@ -1,13 +1,13 @@
-193.35.18.0/24,NL,NL-LI,Eygelshoven,
-45.128.232.0/24,NL,NL-LI,Eygelshoven,
-31.13.211.0/24,IR,IR-ES,Shahreza,
-84.54.51.0/24,NL,NL-LI,Eygelshoven,
-2.58.95.0/24,DE,DE-NW,Düsseldorf,
-94.103.124.0/24,NL,NL-LI,Eygelshoven,
-141.98.4.0/24,US,US-AZ,Phoenix,
-147.78.102.0/24,NL,NL-LI,Eygelshoven,
-87.121.69.0/24,GB,GB-LND,London,
-87.121.58.0/24,NL,NL-LI,Eygelshoven,
-2a05:b0c6:a000::/39,US,US-AZ,Phoenix,
-2a05:b0c6:a200::/39,DE,DE-BE,Berlin,
-2a05:b0c6:a400::/39,GB,GB-LND,London,
+193.35.18.0/24,NL,NL-LI,Eygelshoven,6471 WV
+45.128.232.0/24,NL,NL-LI,Eygelshoven,6471 WV
+84.54.51.0/24,NL,NL-LI,Eygelshoven,6471 WV
+2.58.95.0/24,DE,DE-HE,Frankfurt,63225
+94.103.124.0/24,NL,NL-LI,Eygelshoven,6471 WV
+141.98.4.0/24,US,US-AZ,Phoenix,85034
+147.78.102.0/24,NL,NL-LI,Eygelshoven,6471 WV
+87.121.69.0/24,NL,NL-LI,Eygelshoven,6471 WV
+87.121.58.0/24,NL,NL-LI,Eygelshoven,6471 WV
+2a05:b0c6:a000::/39,US,US-AZ,Phoenix,85034
+2a05:b0c6:a200::/39,DE,DE-HE,Frankfurt,63225
+2a05:b0c7:6000::/36,NL,NL-LI,Eygelshoven,6471 WV
+2a12:dd47:8500::/40,NL,NL-LI,Eygelshoven,6471 WV
